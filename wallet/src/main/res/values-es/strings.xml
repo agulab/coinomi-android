@@ -26,10 +26,10 @@
     <string name="button_confirm">Confirmar</string>
     <string name="button_cancel">Cancelar</string>
     <string name="button_dismiss">Descartar</string>
-    <string name="button_delete">Borrar</string>
+    <string name="button_delete">Eliminar</string>
     <string name="button_add">Agregar</string>
     <string name="button_save">Guardar</string>
-    <string name="button_remove">Remover</string>
+    <string name="button_remove">Quitar</string>
     <string name="button_edit">Editar</string>
     <string name="button_send">Enviar</string>
     <string name="button_sign">Firma</string>
@@ -268,7 +268,7 @@
     <string name="trade_status_email_receipt">Recibo por correo electrónico</string>
     <string name="trade_status_failed_detail">El intercambio ha fallado: %1$s</string>
     <string name="trade_status_failed">El intercambio ha fallado</string>
-    <string name="trade_status_delete_message">¿Eliminar de el historial?</string>
+    <string name="trade_status_delete_message">¿Eliminar del historial?</string>
     <string name="trade_status_tx_not_available">Transacción no encontrado, inténtelo de nuevo en unos pocos segundos</string>
     <!-- Email receipt dialog -->
     <string name="email_receipt_title">Recibo por correo electrónico</string>
@@ -294,8 +294,8 @@
     <string name="tx_message_private">mensaje privado</string>
     <string name="tx_message_public_add">Añadir mensaje público</string>
     <string name="tx_message_private_add">Añadir mensaje privado</string>
-    <string name="tx_message_public_remove">Eliminar mensaje público</string>
-    <string name="tx_message_private_remove">Eliminar mensaje privado</string>
+    <string name="tx_message_public_remove">Quitar mensaje público</string>
+    <string name="tx_message_private_remove">Quitar mensaje privado</string>
     <string name="tx_message_from">de</string>
     <string name="tx_message_subject">sujeto</string>
     <string name="tx_message">mensaje</string>
